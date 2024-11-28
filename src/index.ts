@@ -1,4 +1,4 @@
-import { TaskService } from './domain/task/task.service';
+import { TaskService } from './Domain/Entities/Tasks/task.service';
 
 const taskService = new TaskService();
 

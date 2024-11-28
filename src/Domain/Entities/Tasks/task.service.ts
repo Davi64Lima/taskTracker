@@ -1,4 +1,4 @@
-import { Task } from "./entities/task.entity";
+import { Task } from "./task.entity";
 import { TaskRepository } from "./tasks.repository";
 import { v4 as uuidv4 } from 'uuid';
 

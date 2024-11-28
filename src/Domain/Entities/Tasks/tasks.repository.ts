@@ -1,4 +1,4 @@
-import { Task } from "./entities/task.entity";
+import { Task } from "./task.entity";
 import fs from 'fs';
 import { TaskProperties } from "./types";
 import path from "path";
